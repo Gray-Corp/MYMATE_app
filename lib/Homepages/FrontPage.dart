@@ -131,12 +131,12 @@ class _FrontPageState extends State<FrontPage> {
                     mainAxisAlignment: MainAxisAlignment.spaceAround,
                     children: [
                       SvgPicture.asset(
-                        'assets/images/user.svg',
+                        'assets/images/Layer 1.svg',
                         // Replace this with your SVG icon path
                         width: 18.29, // Adjust the width as needed
                         height: 18.29, // Adjust the height as needed
-                        color: MyMateThemes
-                            .primaryGreen, // Use the desired color for the icon
+                        // color: MyMateThemes
+                        //     .primaryGreen, // Use the desired color for the icon
                       ),
                       SizedBox(width: 4),
                       Text(
