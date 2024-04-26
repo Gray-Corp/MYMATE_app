@@ -92,7 +92,6 @@ class _FrontPageState extends State<FrontPage> {
             Center(
               child: SvgPicture.asset(
                 'assets/images/Group 2073.svg',
-                // Replace this with your SVG icon path
                 width: 230, // Adjust the width as needed
                 height: 195, // Adjust the height as needed
                 //color: MyMateThemes
